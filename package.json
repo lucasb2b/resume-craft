@@ -22,6 +22,7 @@
     "react": "^18",
     "react-dom": "^18",
     "react-hook-form": "^7.58.1",
+    "react-resizable-panels": "^3.0.3",
     "shadcn-ui": "0.8.0",
     "tailwind-merge": "^3.3.1",
     "tailwindcss-animate": "^1.0.7"
